@@ -1,1 +1,0 @@
-﻿bingCallback("المدرسة");

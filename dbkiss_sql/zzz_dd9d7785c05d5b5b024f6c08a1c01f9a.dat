@@ -1,1 +1,0 @@
-SELECT COUNT(id) from student WHERE created_datetime BETWEEN '2013-07-01' AND '2013-07-31'

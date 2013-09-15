@@ -1,1 +1,0 @@
-$(document).ready(function(){$(window).load(function(){var a=$("#content"),c=a.height(),b=$("#sidebar-contact").outerHeight(true);c<b&&a.animate({"min-height":b},250)})});
